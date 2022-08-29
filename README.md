@@ -29,10 +29,10 @@ Summary of our dataset is needed for exploratory analysis of the data.
 
 ## Team Members
 
-Viviana Pavon
-Vanessa Miranda
-Jaykumar Raichura
-Xinshi Li 
+* Viviana Pavon
+* Vanessa Miranda
+* Jaykumar Raichura
+* Xinshi Li 
 
 
 
