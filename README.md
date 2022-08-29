@@ -27,6 +27,12 @@ We can visualize we have numerical and categorical data, 25 columns in total.
 2312944 range of values of the row indexes and our data type varies: bool, float, intg and object.
 Summary of our dataset is needed for exploratory analysis of the data.
 
+## Team Members
+
+Viviana Pavon
+Vanessa Miranda
+Jaykumar Raichura
+Xinshi Li 
 
 
 
